@@ -1,4 +1,4 @@
-module git.aimap.io/go/hook
+module git.aimap.io/hao.liu/hook
 
 go 1.12
 
