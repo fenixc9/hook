@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 	"os"
-	"git.aimap.io/go/hook"
+	"git.aimap.io/hao.liu/hook"
 )
 
 func myPrintln(a ...interface{}) (n int, err error) {

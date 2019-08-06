@@ -3,7 +3,7 @@ package main
 import (
 	"bytes"
 	"fmt"
-	"git.aimap.io/go/hook"
+	"git.aimap.io/hao.liu/hook"
 )
 
 //go:noinline
