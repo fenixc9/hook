@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"git.aimap.io/hao.liu/hook"
+	"github.com/lforeverhao/hook"	
 )
 
 //go:noinline

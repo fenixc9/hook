@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"fmt"
 	"golang.org/x/arch/x86/x86asm"
-	"git.aimap.io/hao.liu/hook"
+	"github.com/lforeverhao/hook"
 )
 
 //go:noinline

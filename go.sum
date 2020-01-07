@@ -1,3 +1,5 @@
+git.aimap.io/hao.liu/hook v0.0.0-20190806101610-3243b6dd015b h1:W9Rd0VObF63PUxhJzKX+a05Gq88P6Yt93vJHFsBquO0=
+git.aimap.io/hao.liu/hook v0.0.0-20190806101610-3243b6dd015b/go.mod h1:NR8tTPM+ekbJtJ5EPtQN0iSg/ET2lIVwNDlndEJwveU=
 github.com/davecgh/go-spew v1.1.0 h1:ZDRjVQ15GmhC3fiQ8ni8+OwkZQO4DARzQgrnXU1Liz8=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/golang/arch v0.0.0-20190312162104-788fe5ffcd8c h1:zlsErYYhFmucyRlR1hzbH23MdeDlgkb9Z/9D6LM9luQ=
